@@ -1,0 +1,6 @@
+dist
+coverage
+docs
+reader.js
+parser.js
+app.js
